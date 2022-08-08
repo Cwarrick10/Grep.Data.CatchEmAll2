@@ -1,6 +1,11 @@
 # Part 1
 ### a)
-
+ grep "blas" forest/filescan_00.1
+ grep "squi" forest/filescan_00.4
+ grep "wart" forest/filescan_00.4
+ grep "pika" forest/filescan_00.3
+grep "izard" forest/filescan_00.2
+grep "meleon" forest/filescan_00.2
 
 
 
